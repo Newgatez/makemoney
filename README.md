@@ -7,7 +7,6 @@
     
     <!-- Pré-conexão com os domínios para acelerar o carregamento inicial -->
     <link rel="preconnect" href="https://effectivecpmnetwork.com" crossorigin>
-    <link rel="preconnect" href="https://omg10.com" crossorigin>
     
     <style>
         body { 
@@ -48,18 +47,14 @@
 
     <div class="grid-container">
         <!-- Substitua as URLs abaixo pelos sites que você deseja exibir -->
-        <iframe class="janela" src="https://www.effectivecpmnetwork.com/w6czkvcg?key=7d06d8809910a06ad24d4f5d30bd5a5e" importance="high"></iframe>
-        <iframe class="janela" src="https://www.effectivecpmnetwork.com/pg92j7gi?key=21bd7e023dda6fc752d4488d0c87033c" importance="high"></iframe>
-        <iframe class="janela" src="https://www.effectivecpmnetwork.com/eudxqrdvas?key=40a46aeeaad89e33e0289dbe0dd2cc51" importance="high"></iframe>
-        <iframe class="janela" src="https://www.effectivecpmnetwork.com/y8v4b1x4u?key=3908edbc4b34853d6b088301be76eedf" importance="high"></iframe>
+        <iframe class="janela" src="https://effectivecpmnetwork.com/w6czkvcg?key=7d06d8809910a06ad24d4f5d30bd5a5e" importance="high"></iframe>
+        <iframe class="janela" src="https://effectivecpmnetwork.com/pg92j7gi?key=21bd7e023dda6fc752d4488d0c87033c" importance="high"></iframe>
+        <iframe class="janela" src="https://effectivecpmnetwork.com/eudxqrdvas?key=40a46aeeaad89e33e0289dbe0dd2cc51" importance="high"></iframe>
+        <iframe class="janela" src="https://effectivecpmnetwork.com/y8v4b1x4u?key=3908edbc4b34853d6b088301be76eedf" importance="high"></iframe>
         
         <!-- Novas janelas adicionadas para completar 10 -->
-        <iframe class="janela" src="https://www.effectivecpmnetwork.com/d9qyggb6t?key=f0f7cac7f2aae79ff4591bf7f8773c87" importance="high"></iframe>
-        <iframe class="janela" src="https://www.effectivecpmnetwork.com/d3dxwf48e?key=c88f1db71dd8060b4d63204d89aff104" importance="high"></iframe>
-        <iframe class="janela" src="https://www.effectivecpmnetwork.com/rer8z03h?key=ff534dea47c1dab4058e75b5a0d0dee9" importance="high"></iframe>
-        <iframe class="janela" src="https://www.effectivecpmnetwork.com/cmjznctw90?key=d24317add6eb687c85e6a4eb61cc7874" importance="high"></iframe>
-        <iframe class="janela" src="https://www.effectivecpmnetwork.com/phb1zr8y?key=0d9c619ebfbd1d480811f174a7aa5882" importance="high"></iframe>
-        <iframe class="janela" src="https://www.effectivecpmnetwork.com/em5eytsp?key=aa3c91efb241e4be1926d42084b02128" importance="high"></iframe>
+        <iframe class="janela" src="https://effectivecpmnetwork.com/d9qyggb6t?key=f0f7cac7f2aae79ff4591bf7f8773c87" importance="high"></iframe>
+        <iframe class="janela" src="https://effectivecpmnetwork.com/d3dxwf48e?key=c88f1db71dd8060b4d63204d89aff104" importance="high"></iframe>
     </div>
 
 </body>
